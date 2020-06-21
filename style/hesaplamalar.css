@@ -1,0 +1,37 @@
+#computation{
+  padding-top: 15rem;
+  background-color: #18BC9C;
+  height: 800px;
+}
+
+.compute-container{
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+
+
+.compute-col{
+  float:left;
+  width:50%;
+  padding: 2rem 2rem;
+  background-color: white;
+  margin-top: 4rem;
+  border-radius: 2.5rem;
+}
+.text{
+  text-align: left;
+  font-size: 25px;
+  padding-left: 2rem;
+  padding-top: auto;
+  padding-bottom: auto;
+}
+
+.compute-link{
+  color: white;
+  font-size: 25px;
+  background-color: #18bc9c;
+  border-radius: 2.5rem;
+  padding:1rem 1rem;
+}
